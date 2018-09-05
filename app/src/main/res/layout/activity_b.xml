@@ -35,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/btn_start_c_label"
-            android:layout_toRightOf="@id/btn_start_c"
+            android:layout_toRightOf="@id/btn_start_a"
             android:onClick="startActivityC"/>
 
         <Button
